@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #1a1a2e;
+  color: #f9c74f;
+}
+a {
+  color: #f9c74f;
+  text-decoration: none;
+}
+input, button {
+  margin: 5px 0;
+  padding: 8px;
+}
+button {
+  background-color: #f9c74f;
+  border: none;
+  cursor: pointer;
+}
